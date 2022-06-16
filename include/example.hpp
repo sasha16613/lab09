@@ -1,8 +1,8 @@
 // Copyright 2022 nikolay.sasha@mail.ru
 //
 
-#ifndef INCLUDE_INCLUDE_HPP_
-#define INCLUDE_INCLUDE_HPP_
+#ifndef INCLUDE_EXAMPLE_HPP_
+#define INCLUDE_EXAMPLE_HPP_
 
 #include <utility>
 #include <vector>
@@ -103,4 +103,4 @@ class Inductor : public Element {
   }
 };
 
-#endif  // INCLUDE_INCLUDE_HPP_
+#endif  // INCLUDE_EXAMPLE_HPP_
